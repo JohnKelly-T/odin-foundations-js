@@ -32,3 +32,6 @@ console.log(12 + 27);
 // 2. Add a sequence of 6 different numbers
 console.log(1 + 2 + 3 + 4 + 5 + 6);
 
+// 3. Print the value of the following expression: (4 + 6 + 9) // 77
+console.log((4 + 6 + 9) / 77);
+
