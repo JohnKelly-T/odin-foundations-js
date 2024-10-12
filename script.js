@@ -35,3 +35,8 @@ console.log(1 + 2 + 3 + 4 + 5 + 6);
 // 3. Print the value of the following expression: (4 + 6 + 9) // 77
 console.log((4 + 6 + 9) / 77);
 
+// 4. Using Variables in the console
+let a = 10;
+console.log(a);
+
+
