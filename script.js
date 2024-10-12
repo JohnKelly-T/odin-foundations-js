@@ -17,3 +17,11 @@ console.log(age);
 age = 22;
 
 console.log(age);
+
+// Declare constant variable
+const pi = 3.14;
+pi = 10;
+
+console.log(pi); // will output Uncaught TypeError: Assignment to constant variable
+
+
