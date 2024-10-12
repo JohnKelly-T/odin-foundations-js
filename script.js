@@ -35,8 +35,11 @@ console.log(1 + 2 + 3 + 4 + 5 + 6);
 // 3. Print the value of the following expression: (4 + 6 + 9) // 77
 console.log((4 + 6 + 9) / 77);
 
-// 4. Using Variables in the console
+// 4. Using Variables in the console (note: you can't declare variables in the console)
 let a = 10;
 console.log(a);
 
-
+// 5. Try sequence
+let max = 57;
+let actual = max - 13;
+let percentage = actual / max;
