@@ -29,3 +29,6 @@ console.log(pi); // will output Uncaught TypeError: Assignment to constant varia
 
 console.log(12 + 27);
 
+// 2. Add a sequence of 6 different numbers
+console.log(1 + 2 + 3 + 4 + 5 + 6);
+
